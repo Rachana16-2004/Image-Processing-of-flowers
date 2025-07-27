@@ -50,6 +50,3 @@ Metric	Score
 Accuracy	92.4%
 Precision	90.3%
 Recall	91.1%
-
-🤝 Contributing
-Contributions are welcome! Fork the repo and submit a pull request.
