@@ -40,7 +40,6 @@ Run the Jupyter Notebook or Python script
 
 python -m streamlit run app.py
 
-
 jupyter notebook notebooks/Image_Processing_Model.ipynb
 🖼️ Sample Results
 Add sample input/output images and model performance graphs here.
