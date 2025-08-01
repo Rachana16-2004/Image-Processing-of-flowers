@@ -11,7 +11,7 @@ This repository contains a machine learning project focused on image processing 
 ├── src/ # Source code
 ├── requirements.txt # Dependencies
 └── README.md # Project overview
-
+---
 ## 🚀 Features
 
 - Image classification using CNN
