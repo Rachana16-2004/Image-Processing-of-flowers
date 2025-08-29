@@ -6,7 +6,7 @@ This repository contains a machine learning project focused on image processing 
  
 📁 image_processing_project/
 ├── data/ # Dataset (images)
-├── models/ # Trained ML/DL models
+├── models/ # Trained ML/DL models 
 ├── notebooks/ # Jupyter notebooks for training & testing
 ├── src/ # Source code
 ├── requirements.txt # Dependencies
