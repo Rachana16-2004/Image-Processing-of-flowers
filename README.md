@@ -2,7 +2,7 @@
   
 This repository contains a machine learning project focused on image processing using computer vision and deep learning techniques.
  
-## 📂 Project Structure
+## 📂 Project Structure 
  
 📁 image_processing_project/
 ├── data/ # Dataset (images)
