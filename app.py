@@ -5,7 +5,7 @@ import streamlit as st
 import tensorflow as tf
 import numpy as np 
 
-st.header('Flower Classification CNN Model')
+st.header('Flower Classification CNN Model') 
 flower_names = ['daisy', 'dandelion', 'rose', 'sunflower', 'tulip']
 
 model = load_model('Flower_Recog_Model.h5')
